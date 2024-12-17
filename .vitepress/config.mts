@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "DeskMini All in One",
   description: "A VitePress Site",
-  base: "/",
+  base: "/Deskmini-All-In-One",
   srcDir: "docs",
 
   lastUpdated: true,
