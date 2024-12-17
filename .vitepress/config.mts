@@ -3,9 +3,14 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "DeskMini All in One",
-  description: "A VitePress Site",
+  description: "详细介绍如何将 DeskMini 310 改装成多功能服务器，包含 PVE、OpenWRT、群晖等系统的安装配置教程",
   base: "/Deskmini-All-In-One",
   srcDir: "docs",
+  lang: 'zh-CN',
+  head: [
+    ['meta', { name: 'keywords', content: 'DeskMini 310, PVE, OpenWRT, NAS, 群晖, 服务器, 虚拟化' }],
+    ['meta', { name: 'author', content: 'Nookery' }],
+  ],
 
   lastUpdated: true,
   themeConfig: {
