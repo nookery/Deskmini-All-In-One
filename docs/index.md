@@ -11,6 +11,8 @@
 
 按照本文操作，最终的成果是：
 
+![project](/images/project.png)
+
 - DeskMini 可以安装多个虚拟机，如：Ubuntu、Windows、macOS(不太好用)
 - DeskMini 安装了群晖的操作系统，当作NAS使用
 - DeskMini 安装了 OpenWRT，相当于一个路由器
