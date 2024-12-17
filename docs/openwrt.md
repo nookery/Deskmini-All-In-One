@@ -3,12 +3,16 @@
 
 ## 安装 OpenWrt
 
+![OpenWRT-2](/images/openwrt-2.png)
+
 - DeskMini 前置 USB 接口连接 USB 网卡
 - 网线B连接 USB 网卡和墙上的网口
 
 ## 配置 OpenWrt
 
 ### 配置互联网
+
+![OpenWRT-1](/images/openwrt-1.png)
 
 电脑的配置：
 

@@ -1,5 +1,7 @@
 # 简介
 
+![deskmini](/images/deskmini.jpg)
+
 这篇文章记录了我将 DeskMini 310 改装成一台运行PVE、OpenWRT、群晖等多个大型软件的电脑的整个过程。  
 
 在此之前，它运行黑苹果，作为一台工作用的主力机。因为CPU有些落后而被Mac mini M2 Pro替代。  
