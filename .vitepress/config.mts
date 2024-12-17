@@ -12,6 +12,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Coffic 工作室', link: 'https://cofficlab.github.io' },
+      { text: '快易知', link: 'https://www.kuaiyizhi.cn' },
     ],
 
     sidebar: [
@@ -24,11 +26,11 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/cofficlab' }
+      { icon: 'github', link: 'https://github.com/nookery' }
     ],
 
     editLink: {
-      pattern: 'https://github.com/cofficlab/cofficlab.github.io/edit/main/docs/:path',
+      pattern: 'https://github.com/nookery/Deskmini-All-In-One/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
   }
